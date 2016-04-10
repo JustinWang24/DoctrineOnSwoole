@@ -1,0 +1,20 @@
+{
+    "name": "justinwang24/doctrine-on-swoole",
+    "description": "Using Doctrine over Swoole",
+    "require-dev": {
+        "phpunit/phpunit": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Wang",
+            "email": "justinwang24@yahoo.com.au"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.5",
+        "psr/log": "^1.0",
+        "symfony/event-dispatcher": "^3.0",
+        "symfony/yaml": "^3.0"
+    }
+}

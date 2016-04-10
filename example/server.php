@@ -1,7 +1,7 @@
 <?php
 require_once '../vendor/autoload.php';
-require_once '../src/doctrine-on-swoole.php';
-require_once './models/Product.php';
+require_once './doctrine-on-swoole.php';
+require_once './Product.php';
 
 use justinwang24\DoctrineOnSwoole\Manager as Manager;
 
